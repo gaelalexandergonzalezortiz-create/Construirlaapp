@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import WelcomeScreen from './components/WelcomeScreen';
+import WelcomeScreen from "./components/WelcomeScreen";
 import AccountSelection from './components/AccountSelection';
 import HomeCliente from './components/HomeCliente';
 import NailBuilder from './components/NailBuilder';
